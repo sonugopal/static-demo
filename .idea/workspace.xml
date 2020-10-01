@@ -20,13 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16ef537a-bd30-4f49-85fd-819fde68b7b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/precache-manifest.c9ef364e08edf1ae91b0aaffcfb7065a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.fbe38e32.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.fbe38e32.chunk.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +75,8 @@
       <updated>1600864716520</updated>
       <workItem from="1600864717554" duration="4039000" />
       <workItem from="1601121056026" duration="1750000" />
+      <workItem from="1601268507400" duration="612000" />
+      <workItem from="1601549401007" duration="672000" />
     </task>
     <servers />
   </component>
@@ -97,6 +93,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
