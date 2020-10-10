@@ -20,23 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16ef537a-bd30-4f49-85fd-819fde68b7b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/precache-manifest.ad7dc7b467047b63e2061fd716e64d17.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/css/2.00d677fa.chunk.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/css/2.00d677fa.chunk.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/css/main.07dace2e.chunk.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/css/main.07dace2e.chunk.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/2.2c336c0e.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/2.2c336c0e.chunk.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/2.2c336c0e.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.37c5c596.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.37c5c596.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/precache-manifest.a2e759a38433e386a596601f88b76d70.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/css/main.f9005fbd.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/css/main.f9005fbd.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.0ddd53fd.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.0ddd53fd.chunk.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/images/carousel/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/images/carousel/1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/static/images/carousel/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/images/carousel/2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/static/images/carousel/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/images/carousel/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/carousel/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/images/carousel/5.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +91,8 @@
       <workItem from="1601568443539" duration="599000" />
       <workItem from="1601629974171" duration="2064000" />
       <workItem from="1602165912436" duration="620000" />
-      <workItem from="1602227726386" duration="653000" />
+      <workItem from="1602227726386" duration="3155000" />
+      <workItem from="1602316493766" duration="720000" />
     </task>
     <servers />
   </component>
