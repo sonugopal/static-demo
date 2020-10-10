@@ -20,18 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16ef537a-bd30-4f49-85fd-819fde68b7b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/precache-manifest.a2e759a38433e386a596601f88b76d70.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/css/main.f9005fbd.chunk.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/css/main.f9005fbd.chunk.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.0ddd53fd.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.0ddd53fd.chunk.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/precache-manifest.004700b2deb4c9c1fd3cf9a00f87f62c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.9153ee3f.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.9153ee3f.chunk.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/images/carousel/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/images/carousel/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/images/carousel/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/images/carousel/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/images/carousel/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/images/carousel/5.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +86,7 @@
       <workItem from="1601629974171" duration="2064000" />
       <workItem from="1602165912436" duration="620000" />
       <workItem from="1602227726386" duration="3155000" />
-      <workItem from="1602316493766" duration="720000" />
+      <workItem from="1602316493766" duration="1020000" />
     </task>
     <servers />
   </component>
