@@ -20,9 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16ef537a-bd30-4f49-85fd-819fde68b7b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/precache-manifest.004700b2deb4c9c1fd3cf9a00f87f62c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.9153ee3f.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.9153ee3f.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/precache-manifest.8f54e4b7a08a05bfd0fa2ec66ae82d5b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/css/main.8720f7bf.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/css/main.8720f7bf.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.0860f44a.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.0860f44a.chunk.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
@@ -86,7 +89,7 @@
       <workItem from="1601629974171" duration="2064000" />
       <workItem from="1602165912436" duration="620000" />
       <workItem from="1602227726386" duration="3155000" />
-      <workItem from="1602316493766" duration="1020000" />
+      <workItem from="1602316493766" duration="2752000" />
     </task>
     <servers />
   </component>
