@@ -19,20 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16ef537a-bd30-4f49-85fd-819fde68b7b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/precache-manifest.170aa45e435ab44c41f13a5dc73c7fd9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/css/main.2673541c.chunk.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/css/main.2673541c.chunk.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.a507685a.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.a507685a.chunk.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/images/carousel/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/images/carousel/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/images/carousel/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/images/carousel/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/images/carousel/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/images/carousel/4.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="16ef537a-bd30-4f49-85fd-819fde68b7b2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +79,7 @@
       <workItem from="1601629974171" duration="2064000" />
       <workItem from="1602165912436" duration="620000" />
       <workItem from="1602227726386" duration="3155000" />
-      <workItem from="1602316493766" duration="4702000" />
+      <workItem from="1602316493766" duration="5171000" />
     </task>
     <servers />
   </component>
