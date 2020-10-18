@@ -20,7 +20,136 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16ef537a-bd30-4f49-85fd-819fde68b7b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/logo132.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/logo192-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/logo512-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.004700b2deb4c9c1fd3cf9a00f87f62c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.09cb494de54c2c004b41e486b9f14f1f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.16d4b941a38559c25972818bffe21c84.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.170aa45e435ab44c41f13a5dc73c7fd9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.1fe95b904d4d1350e2a4c3fdbe9f5fc7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.24531009a4737fc5b7d8dd6bb687bc99.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.2c2cb9e607626429cb1e71b35a89499f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.30e7d924c96e18360f8f9f35a8fbb46c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.7fdf3e40cc0d8b6a5a0893b7302a1600.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.8f54e4b7a08a05bfd0fa2ec66ae82d5b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.a2e759a38433e386a596601f88b76d70.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.ad7dc7b467047b63e2061fd716e64d17.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/2.00d677fa.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/2.00d677fa.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/2.1b817be5.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/2.1b817be5.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/2.416ea3b5.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/2.416ea3b5.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/2.bb3e7689.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/2.bb3e7689.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.07dace2e.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.07dace2e.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.2673541c.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.2673541c.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.8720f7bf.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.8720f7bf.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.f1e664b6.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.f1e664b6.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.f9005fbd.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.f9005fbd.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.f98b6609.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.f98b6609.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/art/BOSE.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/art/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/art/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/art/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/art/bg4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/art/bose.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/carousel/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/carousel/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/carousel/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/carousel/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/carousel/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/carousel/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/cources/golden.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/cources/pro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/cources/star.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/cources/teen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/error.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/error404.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/left-btn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/logo-small.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/master.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/menu-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/next-buttom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/overlay_faculty.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/prev-buttom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/projects/eclub.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/projects/mnm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/projects/skillme.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/right-btn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/specialities/certified.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/specialities/child.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/specialities/collaboration.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/specialities/counselling.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/specialities/innovative.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/specialities/mentoring.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/specialities/psychometric.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/specialities/rnd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/step.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/stopwatch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/images/user.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.2c336c0e.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.2c336c0e.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.2c336c0e.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.489dcb94.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.489dcb94.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.489dcb94.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.6d0cdf79.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.6d0cdf79.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.6d0cdf79.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.8c32ef8a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.8c32ef8a.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.8c32ef8a.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.0860f44a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.0860f44a.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.0ddd53fd.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.0ddd53fd.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.2090f990.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.2090f990.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.37c5c596.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.37c5c596.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.3acec2e4.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.3acec2e4.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.544b2035.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.544b2035.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.59efb8b6.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.59efb8b6.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.72bcf938.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.72bcf938.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.9153ee3f.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.9153ee3f.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.a507685a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.a507685a.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.c41d4933.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.c41d4933.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.e0cf2389.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.e0cf2389.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.6de8fc48.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.6de8fc48.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/error.17ad386f.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/error404.512aeebc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/left-btn.4874061b.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/logo-small.b77ed046.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/logo.1f55ff69.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/master.ce30b484.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/right-btn.f6becb2c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/star.86acaa87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/stopwatch.93e04ddd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/user.30f6859b.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +215,7 @@
       <workItem from="1602588878177" duration="1657000" />
       <workItem from="1602595061785" duration="1706000" />
       <workItem from="1602667261256" duration="601000" />
+      <workItem from="1603047169806" duration="185000" />
     </task>
     <servers />
   </component>
